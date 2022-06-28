@@ -31,7 +31,7 @@ const App = () => {
         </div>
 
         <div className="absolute right-0 top-0 text-xs">
-          Actualizado: 27/06/2022 15:23
+          Actualizado: 28/06/2022 9:18
         </div>
       </div>
 
